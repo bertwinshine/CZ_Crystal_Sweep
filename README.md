@@ -1,4 +1,4 @@
-# CZ_Crystal_Sweep# CZ melt — crystal rotation study
+# CZ melt — crystal rotation study
 
 Reference CFD cases for the Czochralski silicon melt, varying the crystal
 rotation. Eleven steady 2D axisymmetric swirl cases from 4 to 20 rpm, everything
