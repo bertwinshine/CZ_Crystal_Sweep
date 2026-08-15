@@ -12,7 +12,7 @@ abstract: >
 authors:
   - family-names: Kurisinkal Shine
     given-names: Bertwin
-    University: TU Chemnitz
+    affiliation: "Chemnitz University of Technology"
     email: bertwinkurisinkalshine@gmail.com
 version: 1.0.0
 date-released: 2026-08-15
