@@ -6,8 +6,7 @@ abstract: >
   anchor point (crystal 8 rpm, crucible -3 rpm, hot wall 1745 K) and were
   checked for convergence, mesh independence, conservation, and physical
   consistency. A flow reversal in the meridional circulation was found
-  between 6 and 7 rpm. The data was generated as reference input for a PINN
-  and surrogate model being developed under the Quasi / SIMD project.
+  between 6 and 7 rpm.
   Simulated using ANSYS Fluent 2026 R1.
 authors:
   - family-names: Kurisinkal Shine
